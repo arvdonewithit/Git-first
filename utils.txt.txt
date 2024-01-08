@@ -1,0 +1,14 @@
+first git status thenn initialise  by git init it will create empty .git folder
+this is my first repository 
+
+working directory staging area stage files commit git Repository checkout thr project
+
+git add. to stage all files
+
+now you want to commit it will ask you who are you 
+git config --global user.name arevdonewithit
+git config --global user.email arvindganwali@gmail.com
+
+then commit with a message
+
+git commit -m "version 2"
